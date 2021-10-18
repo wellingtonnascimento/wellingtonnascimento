@@ -31,8 +31,8 @@
   <img src="https://user-images.githubusercontent.com/35739995/122655117-7c577180-d126-11eb-9b30-3591b1252bb5.png">&nbsp;
 </p>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=wellingtonnascimento&show_icons=true&count_private=true&show_icons=true&theme=react&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wellingtonnascimento&show_icons=true&theme=react&layout=compact)
+<!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=wellingtonnascimento&show_icons=true&count_private=true&show_icons=true&theme=react&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wellingtonnascimento&show_icons=true&theme=react&layout=compact) -->
 
 
 
