@@ -1,7 +1,7 @@
 <!-- ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=wellingtonnascimento&repo=wellingtonnascimento&countColorcountColor) -->
 
 
-<h1 align = "justify"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Wellington</h1>
+<h1 align = "justify"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" height="25">, I am Wellington</h1>
 <p align = "justify">Front-end Developer</p>
 
 
